@@ -1,0 +1,47 @@
+.imagem {
+    width: 563px;
+}
+
+.textodeletar {
+    font-size:
+        16px;
+}
+
+.textoeditar {
+    font-size:
+        16px;
+}
+
+.divcard {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+
+.rodapecard {
+    box-shadow: 0px 4px 8px #e2e210;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 0 0 15px 15px;
+    gap: 20px;
+}
+
+.deletar {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.editar {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+
+}

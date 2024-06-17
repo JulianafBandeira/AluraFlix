@@ -1,0 +1,6 @@
+.secform{
+    display: flex;
+    width: 1360px;
+    height: 400px;
+    gap: 47px;
+}

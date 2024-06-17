@@ -1,0 +1,114 @@
+.secards{
+    display: flex;
+    flex-direction: column;
+    max-width: 1356.39px;
+    height: 1482.9px;
+    gap: 40px;
+    margin: 10px 45px;
+}
+
+.front, .back,
+.mobile{
+    display: flex;
+    flex-direction: column;
+    gap: 
+    93px;
+    max-width: 1356.34px;
+    height: 325.5px;
+
+}
+
+
+.titulofront{
+    width: 563px;
+    height: 70px;
+    text-transform: uppercase;
+    font-size: 32px;
+    border-radius: 15px;
+    background-color: #6BD1FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tituloback{
+    width: 563px;
+    height: 70px;
+    text-transform: uppercase;
+    font-size: 32px;
+    border-radius: 15px;
+    background-color: #00C86F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.titulomobile{
+    width: 563px;
+    height: 70px;
+    text-transform: uppercase;
+    font-size: 32px;
+    border-radius: 15px;
+    background-color:#FFBA05;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.secards{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cardsfrontcontainer{
+    display: flex;
+    flex-direction: column;
+    max-width: 1356.34px;
+    height: 325.5px;
+    gap:30px
+}
+
+.cardsfront, .cardsback, .cardsmobile{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    
+}
+
+
+
+
+
+.containercard1{
+    display: flex;
+    width: 430px;
+    height: 28px;
+    gap: 70px;
+}
+
+.textodeletar{
+    font-size: 
+    16px;
+}
+
+.textoeditar{
+    font-size: 
+    16px;
+}
+
+.divcard1, .divcard2{
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    
+    gap: 40px;
+}
